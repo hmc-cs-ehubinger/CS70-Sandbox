@@ -3,4 +3,4 @@ _Evan Hubinger and Marissa Gee._
 
 Hello! This is the README!
 
-A sandbox for CS 70.
+A SANDBOX for CS 70.
